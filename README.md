@@ -10,7 +10,7 @@ Amaç; gerçek dünya problemlerini veri odaklı bakış açısıyla çözmek ve
 
 ## 📁 Proje Yapısı
 
-<pre> ```text dataScientistBootcamp/
+<pre>  dataScientistBootcamp/
 ├── CRM_Analytics/
 │   └── FLO_RFM_Analysis.py
 ├── FeatureEngineering/
@@ -29,7 +29,7 @@ Amaç; gerçek dünya problemlerini veri odaklı bakış açısıyla çözmek ve
     ├── python_alistirmalar.py
     ├── pandas_alistirmalar.py
     └── list_comp_alistirmalar.py
- ``` </pre>
+ </pre>
 
 
 
