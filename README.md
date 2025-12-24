@@ -10,7 +10,26 @@ Amaç; gerçek dünya problemlerini veri odaklı bakış açısıyla çözmek ve
 
 ## 📁 Proje Yapısı
 
-<pre> ```text dataScientistBootcamp/ ├── CRM_Analytics/ │ ├── Datasets/ │ └── FLO_RFM_Analysis.py ├── FeatureEngineering/ │ ├── Datasets/ │ └── Diabetes_Feature_Engineering.py ├── MachineLearning/ │ ├── Datasets/ │ ├── flo_ml_customerseg.py │ ├── house_pricing.py │ ├── scoutium_case.py │ └── telco_churn.py ├── MeasurementProblems/ │ ├── Datasets/ │ ├── AB_TESTING.py │ └── Rating_Product_and_Sorting_Reviews_in_Amazon.py ├── RecommenderSystems/ │ └── Hybrid_Recommender_System.py └── PythonProgrammingforDataScience/ ├── python_alistirmalar.py ├── pandas_alistirmalar.py └── list_comp_alistirmalar.py ``` </pre>
+<pre> ```text dataScientistBootcamp/
+├── CRM_Analytics/
+│   └── FLO_RFM_Analysis.py
+├── FeatureEngineering/
+│   └── Diabetes_Feature_Engineering.py
+├── MachineLearning/
+│   ├── flo_ml_customerseg.py
+│   ├── house_pricing.py
+│   ├── scoutium_case.py
+│   └── telco_churn.py
+├── MeasurementProblems/
+│   ├── AB_TESTING.py
+│   └── Rating_Product_and_Sorting_Reviews_in_Amazon.py
+├── RecommenderSystems/
+│   └── Hybrid_Recommender_System.py
+└── PythonProgrammingforDataScience/
+    ├── python_alistirmalar.py
+    ├── pandas_alistirmalar.py
+    └── list_comp_alistirmalar.py
+ ``` </pre>
 
 
 
