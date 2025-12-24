@@ -1,0 +1,12 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datasets
+Datasets/
+**/Datasets/
+*.csv
+*.xlsx
